@@ -27,6 +27,8 @@
 @@||google.com^$important,document
 @@||oraclecloud.com^$important
 @@||oraclecloud.com^$important,document
+@@||github.com^$important
+@@||github.com^$important,document
 @@||cht.com.tw^$important
 @@||cht.com.tw^$important,document
 !
