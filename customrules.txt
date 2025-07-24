@@ -73,3 +73,25 @@
 @@||garmin.com^$important,document
 @@||facebook.com^$important
 @@||facebook.com^$important,document
+！
+！CN Sites
+@@||baidu.com^$important
+@@||baidu.com^$important,document
+@@||weibo.com^$important
+@@||weibo.com^$important,document
+@@||qq.com^$important
+@@||qq.com^$important,document
+@@||tencent.com^$important
+@@||tencent.com^$important,document
+@@||alipay.com^$important
+@@||alipay.com^$important,document
+@@||taobao.com^$important
+@@||taobao.com^$important,document
+@@||alibaba.com^$important
+@@||alibaba.com^$important,document
+@@||jd.com^$important
+@@||jd.com^$important,document
+@@||wechat.com^$important
+@@||wechat.com^$important,document
+@@||weixin.qq.com^$important
+@@||weixin.qq.com^$important,document
