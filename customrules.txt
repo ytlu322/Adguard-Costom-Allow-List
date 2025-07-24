@@ -213,3 +213,5 @@
 @@||alibabacloud.com.cn^$important,document
 @@||alicdn.com^$important
 @@||alicdn.com^$important,document
+@@||aliapp.org^$important
+@@||aliapp.org^$important,document
