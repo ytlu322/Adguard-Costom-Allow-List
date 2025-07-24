@@ -77,6 +77,10 @@
 @@||alidns.com^$important,document
 @@||aliyun.com^$important
 @@||aliyun.com^$important,document
+@@||alibabacloud.com^$important
+@@||alibabacloud.com^$important,document
+@@||alibabacloud.net^$important
+@@||alibabacloud.net^$important,document
 @@||mozilla.org^$important
 @@||mozilla.org^$important,document
 @@||tailscale.io^$important
@@ -205,3 +209,7 @@
 @@||toutiao.com^$important,document
 @@||digital.go.jp^$important
 @@||digital.go.jp^$important,document
+@@||alibabacloud.com.cn^$important
+@@||alibabacloud.com.cn^$important,document
+@@||alicdn.com^$important
+@@||alicdn.com^$important,document
