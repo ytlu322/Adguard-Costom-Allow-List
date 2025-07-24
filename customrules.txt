@@ -101,6 +101,8 @@
 !Work
 @@||edu.tw^$important
 @@||edu.tw^$important,document
+@@||gov.tw^$important
+@@||gov.tw^$important,document
 @@||imslp.org^$important
 @@||imslp.org^$important,document
 @@||newzik.com^$important
