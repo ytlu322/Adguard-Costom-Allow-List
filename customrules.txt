@@ -181,6 +181,12 @@
 @@||facebook.com^$important,document
 @@||garmin.com^$important
 @@||garmin.com^$important,document
+@@||shopee.tw^$important
+@@||shopee.tw^$important,document
+@@||shopeemobile.com^$important
+@@||shopeemobile.com^$important,document
+@@||shopee.io^$important
+@@||shopee.io^$important,document
 ！
 ！CN Sites
 @@||alibaba.com^$important
