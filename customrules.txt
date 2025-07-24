@@ -95,3 +95,9 @@
 @@||wechat.com^$important,document
 @@||weixin.qq.com^$important
 @@||weixin.qq.com^$important,document
+@@||bilibili.com^$important
+@@||bilibili.com^$important,document
+@@||douyin.com^$important
+@@||douyin.com^$important,document
+@@||toutiao.com^$important
+@@||toutiao.com^$important,document
