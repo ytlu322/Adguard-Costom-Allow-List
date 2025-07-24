@@ -1,0 +1,73 @@
+!
+! Title: Custom Filter List
+! Description: List for unblocking browser-based sites
+! Version: 0.0.0.1
+! Homepage: https://gapatw.org/AdguardCustomRules.txt/
+! Last modified: 2024-06-10
+!
+! Compiled by gapatw@ytlu
+!
+!
+!Self-owned Domains
+@@||gapatw.org^$important
+@@||gapatw.org^$important,document
+@@||gapatw.com^$important
+@@||gapatw.com^$important,document
+@@||llduo.com^$important
+@@||llduo.com^$important,document
+@@||dschambermusic.com^$important
+@@||dschambermusic.com^$important,document
+!
+!Infrustracture
+@@||cloudflare.com^$important
+@@||cloudflare.com^$important,document
+@@||microsoft.com^$important
+@@||microsoft.com^$important,document
+@@||google.com^$important
+@@||google.com^$important,document
+@@||oraclecloud.com^$important
+@@||oraclecloud.com^$important,document
+@@||cht.com.tw^$important
+@@||cht.com.tw^$important,document
+!
+!Work
+@@||edu.tw^$important
+@@||edu.tw^$important,document
+@@||perplexity.ai^$important
+@@||perplexity.ai^$important,document
+@@||imslp.org^$important
+@@||imslp.org^$important,document
+@@||newzik.com^$important
+@@||newzik.com^$important,document
+@@||prezi.com^$important
+@@||prezi.com^$important,document
+@@||opentix.life^$important
+@@||opentix.life^$important,document
+@@||npac-ntch.org^$important
+@@||npac-ntch.org^$important,document
+!
+!Travel
+@@||hilton.com^$important
+@@||hilton.com^$important,document
+@@||marriott.com^$important
+@@||marriott.com^$important,document
+@@||jal.co.jp^$important
+@@||jal.co.jp^$important,document
+@@||cathaypacific.com^$important
+@@||cathaypacific.com^$important,document
+@@||tripit.com^$important
+@@||tripit.com^$important,document
+@@||awardwallet.com^$important
+@@||awardwallet.com^$important,document
+@@||flightradar24.com^$important
+@@||flightradar24.com^$important,document
+!
+!Finance
+@@||thinkorswim.com^$important
+@@||thinkorswim.com^$important,document
+!
+!Life
+@@||garmin.com^$important
+@@||garmin.com^$important,document
+@@||facebook.com^$important
+@@||facebook.com^$important,document
