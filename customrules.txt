@@ -115,6 +115,8 @@
 @@||perplexity.ai^$important,document
 @@||prezi.com^$important
 @@||prezi.com^$important,document
+@@||notion.so^$important
+@@||notion.so^$important,document
 !
 !Finance
 @@||americanexpress.com^$important
