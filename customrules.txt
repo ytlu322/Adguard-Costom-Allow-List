@@ -57,6 +57,10 @@
 @@||gitee.com^$important,document
 @@||github.com^$important
 @@||github.com^$important,document
+@@||githubusercontent.com^$important
+@@||githubusercontent.com^$important,document
+@@||githubcopilot.com^$important
+@@||githubcopilot.com^$important,document
 @@||google.com^$important
 @@||google.com^$important,document
 @@||icloud.com^$important
