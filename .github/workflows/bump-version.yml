@@ -1,32 +1,32 @@
-name: Bump Version and Last Modified
+name: Bump Version and Last             # 工作流程名稱：自動更新版本號及最後修改日期
 
 on:
-  push:
+  push:                                         # 當有人 push 到主要分支時觸發
     branches:
-      - main
-      - master
+      - main                                    # main 分支
+      - master                                  # master 分支
 
 permissions:
-  contents: write
+  contents: write                               # 賦予寫入儲存庫內容的權限
 
 jobs:
   bump-version:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest                      # 在最新的 Ubuntu runner 環境執行
     steps:
       - name: Checkout code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3               # 第一步：抓下最新程式碼
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v4           # 第二步：安裝 Python 環境
         with:
-          python-version: '3.x'
+          python-version: '3.x'                 # 指定 Python 3.x 版本
       - name: Bump version and last modified
-        run: python bump_version.py
+        run: python bump_version.py              # 第三步：執行Python腳本，自動異動 customrules.txt 內容
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}           # 設定 GitHub 權杖為環境變數
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add customrules.txt
-          git commit -m "chore: bump version and last modified automatically" || echo "No changes to commit"
-          git push
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"   # 設定 bot email
+          git config --local user.name "github-actions[bot]"                            # 設定 bot 名稱
+          git add customrules.txt                                                       # 加入異動檔案
+          git commit -m "chore: bump version and last modified automatically" || echo "No changes to commit"  # 無異動時不會造成錯誤
+          git push                         # Push 回到遠端儲存庫
