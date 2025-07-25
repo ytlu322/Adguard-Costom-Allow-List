@@ -225,3 +225,7 @@
 @@||weixin.qq.com^$important,document
 @@||xiaohongshu.com^$important
 @@||xiaohongshu.com^$important,document
+@@||dbankcloud.com^$important
+@@||dbankcloud.com^$important,document
+@@||dbankcloud.com.cn^$important
+@@||dbankcloud.com.cn^$important,document
