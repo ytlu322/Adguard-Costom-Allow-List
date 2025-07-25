@@ -221,3 +221,5 @@
 @@||wechat.com^$important,document
 @@||weixin.qq.com^$important
 @@||weixin.qq.com^$important,document
+@@||xiaohongshu.com^$important
+@@||xiaohongshu.com^$important,document
