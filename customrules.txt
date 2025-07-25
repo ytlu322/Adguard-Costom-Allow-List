@@ -189,8 +189,8 @@
 @@||shopeemobile.com^$important,document
 @@||shopee.io^$important
 @@||shopee.io^$important,document
-！
-！CN Sites
+!
+!CN Sites
 @@||alibaba.com^$important
 @@||alibaba.com^$important,document
 @@||alibabacloud.com.cn^$important
@@ -229,3 +229,5 @@
 @@||dbankcloud.com^$important,document
 @@||dbankcloud.com.cn^$important
 @@||dbankcloud.com.cn^$important,document
+@@||huawei.com^$important
+@@||huawei.com^$important,document
