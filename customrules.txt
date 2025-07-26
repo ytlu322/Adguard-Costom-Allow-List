@@ -193,6 +193,8 @@
 @@||shopeemobile.com^$important,document
 @@||shopee.io^$important
 @@||shopee.io^$important,document
+@@||wonderpet.asia^$important
+@@||wonderpet.asia^$important,document
 !
 !CN Sites
 @@||alibaba.com^$important
