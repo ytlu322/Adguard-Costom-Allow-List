@@ -1,9 +1,9 @@
 !
 ! Title: Custom Filter List
 ! Description: List for unblocking browser-based sites
-! Version: 0.0.0.7
+! Version: 0.0.0.8
 ! Homepage: https://gapatw.org/AdguardCustomRules.txt/
-! Last modified: 2025-07-26
+! Last modified: 2025-07-27
 !
 ! Compiled by gapatw@ytlu
 !
