@@ -101,6 +101,8 @@
 @@||unimus.net^$important,document
 @@||windowsupdate.com^$important
 @@||windowsupdate.com^$important,document
+@@||adobe.com^$important
+@@||adobe.com^$important,document
 !
 !Work
 @@||edu.tw^$important
