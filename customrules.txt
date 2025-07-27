@@ -53,6 +53,8 @@
 @@||awscloud.com^$important,document
 @@||azure.com^$important
 @@||azure.com^$important,document
+@@||bing.com^$important
+@@||bing.com^$important,document
 @@||bingplaces.com^$important
 @@||bingplaces.com^$important,document
 @@||bitwarden.com^$important
