@@ -41,6 +41,8 @@
 @@||aliyundrive.com^$important,document
 @@||amazon.com^$important
 @@||amazon.com^$important,document
+@@||apple.com^$important
+@@||apple.com^$important,document
 @@||appsheet.com^$important
 @@||appsheet.com^$important,document
 @@||arubanetworks.com^$important
