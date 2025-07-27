@@ -103,6 +103,8 @@
 @@||windowsupdate.com^$important,document
 @@||adobe.com^$important
 @@||adobe.com^$important,document
+@@||quickconnect.to^$important
+@@||quickconnect.to^$important,document
 !
 !Work
 @@||edu.tw^$important
