@@ -7,7 +7,7 @@ with open(FILENAME, "r", encoding="utf-8") as f:
     lines = f.readlines()
 
 today = datetime.now().strftime("%Y.%m.%d")
-version_pattern = re.compile(r"^! Version: (\d{4})\.(\d{1,2})\.(\d{1,2})\.(\d+)")
+version_pattern = re.compile(r"^! Version:\s*(\d{4})\.(\d{1,2})\.(\d{1,2})\.(\d+)")
 last_modified_pattern = re.compile(r"^! Last modified: .*")
 
 new_lines = []
@@ -18,7 +18,7 @@ for line in lines:
     m = version_pattern.match(line)
     if m:
         y, mth, d, n = m.groups()
-        date_str = f"{y}.{int(mth)}.{int(d)}"
+        date_str = f"{int(y):04}.{int(mth):02}.{int(d):02}"
         if date_str == today:
             n = str(int(n) + 1)
         else:
