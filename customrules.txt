@@ -11,7 +11,7 @@
 !
 !Self-owned Domains
 @@||dschambermusic.com^$important
-@@||dschambermusic.com^$important,documnent
+@@||dschambermusic.com^$important,document
 @@||gapatw.com^$important
 @@||gapatw.com^$important,document
 @@||gapatw.org^$important
