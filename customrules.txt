@@ -207,6 +207,8 @@
 @@||tripadvisor.com^$important,document
 @@||tripit.com^$important
 @@||tripit.com^$important,document
+@@||c-trip.com^$important
+@@||c-trip.com^$important,document
 !
 !Life
 @@||baidu.com^$important
