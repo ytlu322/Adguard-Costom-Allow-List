@@ -71,6 +71,8 @@
 @@||dbankcloud.com^$important,document
 @@||dbankcloud.com.cn^$important
 @@||dbankcloud.com.cn^$important,document
+@@||dbankcloud.cn^$important
+@@||dbankcloud.cn^$important,document
 @@||deepseek.com^$important
 @@||deepseek.com^$important,document
 @@||gitee.com^$important
