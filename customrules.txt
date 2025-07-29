@@ -85,6 +85,8 @@
 @@||githubusercontent.com^$important,document
 @@||google.com^$important
 @@||google.com^$important,document
+@@||hicloud.com^$important
+@@||hicloud.com^$important,document
 @@||huawei.com^$important
 @@||huawei.com^$important,document
 @@||icloud.com^$important
@@ -218,6 +220,10 @@
 @@||baidu.com^$important,document
 @@||bilibili.com^$important
 @@||bilibili.com^$important,document
+@@||biliapi.com^$important
+@@||biliapi.com^$important,document
+@@||biliapi.net^$important
+@@||biliapi.net^$important,document
 @@||douyin.com^$important
 @@||douyin.com^$important,document
 @@||facebook.com^$important
