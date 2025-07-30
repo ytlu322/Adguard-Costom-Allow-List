@@ -151,6 +151,8 @@
 @@||prezi.com^$important,document
 @@||ld246.com^$important
 @@||ld246.com^$important,document
+@@||siyuan.wiki^$important
+@@||siyuan.wiki^$important,document
 !
 !Finance
 @@||alipay.com^$important
