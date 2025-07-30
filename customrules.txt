@@ -149,6 +149,8 @@
 @@||perplexity.ai^$important,document
 @@||prezi.com^$important
 @@||prezi.com^$important,document
+@@||ld246.com^$important
+@@||ld246.com^$important,document
 !
 !Finance
 @@||alipay.com^$important
