@@ -270,3 +270,5 @@
 @@||bilicdn.com^$important,document
 @@||line-apps.com^$important
 @@||line-apps.com^$important,document
+@@||line-scdn.net^$important
+@@||line-scdn.net^$important,document
