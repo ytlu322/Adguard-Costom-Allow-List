@@ -274,3 +274,7 @@
 @@||line-apps.com^$important,document
 @@||line-scdn.net^$important
 @@||line-scdn.net^$important,document
+@@||garmin.com.tw^$important
+@@||garmin.com.tw^$important,document
+@@||garmin.com.my^$important
+@@||garmin.com.my^$important,document
