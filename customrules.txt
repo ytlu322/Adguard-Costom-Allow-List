@@ -129,6 +129,8 @@
 @@||unimus.net^$important,document
 @@||windowsupdate.com^$important
 @@||windowsupdate.com^$important,document
+@@||cloudflare-dns.com^$important
+@@||cloudflare-dns.com^$important,document
 !
 !Work
 @@||edu.tw^$important
