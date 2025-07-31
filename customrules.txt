@@ -264,3 +264,9 @@
 @@||xiaohongshu.com^$important,document
 @@||deliveryhero.io^$important
 @@||deliveryhero.io^$important,document
+@@||bilicdn2.com^$important
+@@||bilicdn2.com^$important,document
+@@||bilicdn.com^$important
+@@||bilicdn.com^$important,document
+@@||line-apps.com^$important
+@@||line-apps.com^$important,document
