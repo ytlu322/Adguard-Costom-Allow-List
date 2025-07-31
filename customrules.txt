@@ -1,7 +1,7 @@
 !
 ! Title: Custom Filter List
 ! Description: List for unblocking browser-based sites
-! Version: 2025.07.31.2
+! Version: 2025.07.31.3
 ! Homepage: https://github.com/ytlu322/Adguard-Costom-Allow-List
 ! Last modified: 2025-07-31
 !
