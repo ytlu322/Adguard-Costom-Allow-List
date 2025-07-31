@@ -262,3 +262,5 @@
 @@||wonderpet.asia^$important,document
 @@||xiaohongshu.com^$important
 @@||xiaohongshu.com^$important,document
+@@||deliveryhero.io^$important
+@@||deliveryhero.io^$important,document
